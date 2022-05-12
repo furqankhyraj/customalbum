@@ -1,0 +1,27 @@
+{
+  "name": "CustomAlbum",
+  "version": "0.0.1",
+  "description": "Custom Plugin to save photos to custom album",
+  "cordova": {
+    "id": "cordova-plugin-custom-album",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furqankhyraj/customalbum.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Furqan Javed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furqankhyraj/customalbum/issues"
+  },
+  "homepage": "https://github.com/furqankhyraj/customalbum#readme"
+}
